@@ -1,3 +1,7 @@
+# THIS REPO FOR PORTFOLIO PURPOSES
+
+I developed this several years ago using an internal ebay github account.
+
 # Netmorphic
 
 Netmorphic is a library for testing networked applications, such as REST clients over HTTP, and database clients over TCP.
